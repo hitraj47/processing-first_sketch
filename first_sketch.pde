@@ -23,6 +23,7 @@ line(200,500,70,500);
 
 // rear wheel
 ellipseMode(CORNER);
+fill(0,0,255);
 ellipse(171,585,100,100);
 
 //front wheel
