@@ -30,6 +30,7 @@ ellipse(650,585,100,100);
 
 // rear window
 fill(0,255,255,128);
+stroke(255,255,255);
 rect(220,310,170,170);
 
 //front window
